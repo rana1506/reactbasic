@@ -1,5 +1,9 @@
 // About.js file
-  const About = () => {
-    return <div className="element"> This is about page</div>;
-  };
-  export default About;
+const About = () => {
+  return (
+    <div>
+        100s.... of lines
+    </div>
+  );
+};
+export default About;
